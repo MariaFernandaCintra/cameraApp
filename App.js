@@ -2,7 +2,7 @@ import React from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import HomeScreen from "./src/homeScreen";
-import Cam from "./src/cam/camera";
+import Cam from "./src/camera";
 
 const Stack = createStackNavigator();
 
