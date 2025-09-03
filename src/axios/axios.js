@@ -5,7 +5,7 @@ const api = axios.create({  //rota base com a autenticação em headers
     headers:{
         accept: "application/json",
         "Content-Type" : "application/json",
-        "X-AIO-Key":
+        "X-AIO-Key":""
     },
 });
 
